@@ -1,3 +1,3 @@
 # JN02
-DSA 
 TNS Program
+DSA with Java
