@@ -1,3 +1,3 @@
 # JN02
-TNS Program
+TNS Training Program
 DSA with Java
